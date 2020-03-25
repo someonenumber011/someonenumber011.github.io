@@ -14,5 +14,5 @@ var thomasBass = new Howl({
 function run() {
 	thomasBass.play();
 	
-        setTimeout(thomasNormal.play(),200);
+        setTimeout(thomasNormal.play(),300);
 }
