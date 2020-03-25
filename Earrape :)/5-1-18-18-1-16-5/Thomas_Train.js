@@ -1,7 +1,7 @@
 
 		     
-var thomasBass = new Howl({
-        src: ["audio/Thomas The Tank Engine"],
+var thomasNormal = new Howl({
+        src: ["audio/Thomas The Tank Engine.mp3"],
         loop: true,
 });
   
