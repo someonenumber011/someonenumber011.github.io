@@ -12,7 +12,7 @@ var thomasBass = new Howl({
 
 
 function run() {
-	thomasNormal.play();
+	thomasBass.play();
 	
-        setTimeout(thomasBass.play(),200);
+        setTimeout(thomasNormal.play(),200);
 }
