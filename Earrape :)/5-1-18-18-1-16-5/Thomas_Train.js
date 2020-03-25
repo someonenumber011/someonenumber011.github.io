@@ -1,4 +1,4 @@
-var vidNormal = document.getElementById("/audio/Thomas The Tank Engine.mp3");
+
 
 var thomasNormal = new Howl({
         src: ["audio/Thomas The Tank Engine.mp3"],
