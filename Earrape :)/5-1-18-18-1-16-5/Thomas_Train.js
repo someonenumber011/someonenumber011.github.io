@@ -10,7 +10,6 @@ var thomasBass = new Howl({
         loop: true,
 });
 
-thomasBass.volume = 0.1
 
 function run() {
 	thomasNormal.play();
