@@ -10,7 +10,7 @@
 <body>
         <header>Weird Things</header>
         <h6> Here is a collection of all things I create </h6>
-        <a href="/Earrape :)/index.html/">
+        <a href="/Earrape :)/index.html">
 	Earrape :)
         </a>
 </body>
