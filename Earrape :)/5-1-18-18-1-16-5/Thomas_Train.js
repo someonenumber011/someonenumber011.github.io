@@ -13,5 +13,5 @@ var thomasBass = new Howl({
 
 function run() {
 	thomasNormal.play();
-        thomasBass.play()
+        thomasBass.play();
 }
